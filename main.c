@@ -1,5 +1,4 @@
 /*
- * Author: Emirhan Gocturk
  * Date: 14 March 2021
  * Description: Bugfix that STM does not deliver 
  * for well over a year by now. When F4 MCUs are
